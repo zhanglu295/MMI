@@ -1,4 +1,4 @@
-# This package including the six Matlab scripts to implement MMI (Multimodal Mutual Information) and MDI (Multimodal Direct Information)
+# Six scripts to calculate MMI (Multimodal Mutual Information) and MDI (Multimodal Direct Information)
 
 ## 1. dynamicprogramming.m is used for clustering the expression profiles for each gene into clusters by dynamic programming.
 Parameters: 
